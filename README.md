@@ -1,20 +1,20 @@
 ALVA - Alternative Valute - CMS
 ==================
-Owner: Nikola Saric
-Project Manager: Nikola Buric ( http://rs.linkedin.com/in/nikolaburic )
-Project Developer: Momcilo @m0k1 Micanovic ( http://m0k1.asia )
+Owner: Nikola Saric  
+Project Manager: Nikola Buric ( http://rs.linkedin.com/in/nikolaburic )  
+Project Developer: Momcilo @m0k1 Micanovic ( http://m0k1.asia )  
 
 #TODO
 
 #LICENSE
     GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+    Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. [http://fsf.org/]
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
-                            Preamble
+    Preamble
 
   The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
