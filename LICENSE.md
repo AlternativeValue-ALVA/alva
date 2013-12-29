@@ -1,12 +1,3 @@
-ALVA - Alternative Valute - CMS
-==================
-Owner: Nikola Saric
-Project Manager: Nikola Buric ( http://rs.linkedin.com/in/nikolaburic )
-Project Developer: Momcilo @m0k1 Micanovic ( http://m0k1.asia )
-
-#TODO
-
-#LICENSE
     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
