@@ -1,8 +1,7 @@
 ALVA - Alternative Valute - CMS
 ==================
-Owner: Nikola Saric  
+Lead Project Developer (code owner): Momcilo @m0k1 Micanovic ( http://m0k1.asia )  
 Project Manager: Nikola Buric ( http://rs.linkedin.com/in/nikolaburic )  
-Project Developer: Momcilo @m0k1 Micanovic ( http://m0k1.asia )  
 
 #TODO
 
