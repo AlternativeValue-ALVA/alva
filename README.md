@@ -1,6 +1,6 @@
 ALVA V1 - Alternative Valute - CMS
 ==================
-Lead Project Developer (code owner): Momcilo @m0k1 Micanovic ( http://m0k1.asia )  
+Lead Project Developer (code owner): Momcilo @m0k1 Micanovic ( http://m0k1.cf )  
 Project Manager: Nikola Buric ( http://rs.linkedin.com/in/nikolaburic )  
 
 #NOTICE
